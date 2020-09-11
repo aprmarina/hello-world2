@@ -1,0 +1,11 @@
+Variables
+  n
+
+DEBUT
+
+    demander n
+    resultat = "Bienvenue à la wild"  *  n
+
+  retourner resultat
+
+FIN
